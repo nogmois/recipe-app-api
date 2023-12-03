@@ -50,7 +50,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'app.urls'
-
+# test
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
